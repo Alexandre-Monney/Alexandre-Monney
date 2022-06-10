@@ -2,6 +2,14 @@
 
 <hr>
 
+<div align="center">
+ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png" alt="FR" width="150" height="100" title="FR">
+
+</div>
+
+<hr>
+
 <h3 align="center">:exploding_head: In progress : :mortar_board:</h3>
 
 <h4> Frontend : </h4>
@@ -29,8 +37,8 @@
   
 <div align="center">
 <h3>:sunglasses: What's next ? : :eyes: </h4>
-
-<img src="https://cdn.svgporn.com/logos/macOS.svg" alt="macOS" width="50" height="50" title="macOS">
+<img src="https://cdn.svgporn.com/logos/apple.svg" alt="apple" width="75" height="75" title="apple">
+<img src="https://cdn.svgporn.com/logos/macOS.svg" alt="macOS" width="75" height="75" title="macOS"><br>
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="50" height="50" title="react">
 </div>
 
