@@ -26,17 +26,17 @@
 <hr>
 
 <div align="center">
-<h3> :computer: My environment :  :computer: </h4>
+<h3> :computer: My environment :  :computer: </h4><br>
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="50" height="50" title="linux"> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" width="50" height="50" title="vscode">
 
 <img src="https://cdn.svgporn.com/logos/git.svg" alt="git" width="50" height="50" title="git">
 <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github" width="50" height="50" title="github">
 </div>
- 
+<br>
 <hr>
   
 <div align="center">
-<h3>:sunglasses: What's next ? : :eyes: </h4>
+<h3>:sunglasses: What's next ? : :eyes: </h4><br>
 <img src="https://cdn.svgporn.com/logos/apple.svg" alt="apple" width="75" height="75" title="apple">
 <img src="https://cdn.svgporn.com/logos/macOS.svg" alt="macOS" width="75" height="75" title="macOS"><br>
 <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="50" height="50" title="react">
