@@ -11,7 +11,7 @@
 
 <div align="end">
 <h4> Backend : </h4>
-<img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs" width="50" height="50" title="nodejs">      <img src="https://img.shields.io/badge/express.js-%23404d59.svg" alt="express" width="75" height="50" title="express"><br>
+<img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="50" height="50" title="nodejs"><br>
 <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="pgsql" width="50" height="50" title="pgsql"> <img src="https://cdn.svgporn.com/logos/sequelize.svg" alt="sequelize" width="50" height="50" title="sequelize">
 </div>
 
